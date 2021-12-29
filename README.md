@@ -5,7 +5,7 @@
 Free java resources/books  for learning.
 
 Click the link to download the books.
-NB:These are already shared on internet. I do not own any files or take responsibility.
+
 
  
 <body>
@@ -432,3 +432,5 @@ NB:These are already shared on internet. I do not own any files or take responsi
   
     
 </table>
+
+NB:These are already shared on internet. I do not own any files or take responsibility.
