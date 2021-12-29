@@ -5,7 +5,7 @@ Click the link to download the books.
 NB:These are already shared on internet,I do not own any files or take responsibility.
 
 1) Teach yourself java in 21 days :  https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf
-<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<table>
 
 <tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Bruce.Eckel.Thinking.In.Java.4th.Edition.Dec.2007.eBook-BBL.pdf">Bruce.Eckel.Thinking.In.Java.4th.Edition.Dec.2007.eBook-BBL.pdf</a></td><td align="right">03-Mar-2013 20:47  </td><td align="right">5.8M</td><td>&nbsp;</td></tr>
 <tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Data%20Structures%20&amp;%20Algorithms%20in%20Java.pdf">Data Structures &amp; Algorithms in Java.pdf</a></td><td align="right">27-Feb-2012 17:43  </td><td align="right">3.0M</td><td>&nbsp;</td></tr>
