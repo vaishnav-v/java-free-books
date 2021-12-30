@@ -1,10 +1,10 @@
-# java-free-books
+# Java-free-books
 ![N|Solid](https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language-1536x860.png)
 
 
-Free java resources/books  for learning.
+Free **java** resources/books  for learning.
 
-Click the link to download the books.
+Click the link to **download** the books.
 
 
  
@@ -362,75 +362,6 @@ Click the link to download the books.
 </pre><hr></body> 
 
 
-<table>
 
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Bruce.Eckel.Thinking.In.Java.4th.Edition.Dec.2007.eBook-BBL.pdf">Bruce.Eckel.Thinking.In.Java.4th.Edition.Dec.2007.eBook-BBL.pdf</a></td><td align="right">03-Mar-2013 20:47  </td><td align="right">5.8M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Data%20Structures%20&amp;%20Algorithms%20in%20Java.pdf">Data Structures &amp; Algorithms in Java.pdf</a></td><td align="right">27-Feb-2012 17:43  </td><td align="right">3.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Design%20Patterns%20in%20Java.PDF">Design Patterns in Java.PDF</a></td><td align="right">27-Feb-2012 17:41  </td><td align="right">2.2M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java%20OReilly%20Books.pdf">Java OReilly Books.pdf</a></td><td align="right">27-Feb-2012 18:05  </td><td align="right"> 37M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java%20Precisely.pdf">Java Precisely.pdf</a></td><td align="right">27-Feb-2012 17:38  </td><td align="right">874K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java%20Programming%20Language%20Handbook.pdf">Java Programming Language Handbook.pdf</a></td><td align="right">27-Feb-2012 17:38  </td><td align="right">2.9M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Java%20Programming%20Unleashed.rar">Java Programming Unleashed.rar</a></td><td align="right">27-Feb-2012 17:38  </td><td align="right">600K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Java_Developers_Guide.zip">Java_Developers_Guide.zip</a></td><td align="right">27-Feb-2012 17:39  </td><td align="right">1.2M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Java_Unleashed.zip">Java_Unleashed.zip</a></td><td align="right">27-Feb-2012 17:39  </td><td align="right">735K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Java_Unleashed_Second_Edition.zip">Java_Unleashed_Second_Edition.zip</a></td><td align="right">27-Feb-2012 17:46  </td><td align="right">3.4M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Java%20in%2021%20Days%20-%20Professional%20Reference.zip">Java in 21 Days - Professional Reference.zip</a></td><td align="right">27-Feb-2012 17:38  </td><td align="right">683K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Mastering%20Regular%20Expressions%20in%20Java%202nd%20Ed%20%20-%20book.pdf">Mastering Regular Expressions in Java 2nd Ed  - book.pdf</a></td><td align="right">27-Feb-2012 17:39  </td><td align="right">1.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20JAVA%20in%20a%20Nutshell.pdf">O'Reilly - JAVA in a Nutshell.pdf</a></td><td align="right">27-Feb-2012 17:49  </td><td align="right">4.6M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Java%20Books.pdf">O'Reilly - Java Books.pdf</a></td><td align="right">27-Feb-2012 18:12  </td><td align="right"> 37M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Java%20Cookbook.PDF">O'Reilly - Java Cookbook.PDF</a></td><td align="right">27-Feb-2012 17:46  </td><td align="right">3.9M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Java%20Distributed%20Computing.pdf">O'Reilly - Java Distributed Computing.pdf</a></td><td align="right">27-Feb-2012 17:39  </td><td align="right">1.1M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Java%20Extreme%20Programming%20Cookbook%20(2004).pdf">O'Reilly - Java Extreme Programming Cookbook (2004).pdf</a></td><td align="right">27-Feb-2012 17:40  </td><td align="right">1.5M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Java%20IO.pdf">O'Reilly - Java IO.pdf</a></td><td align="right">27-Feb-2012 17:41  </td><td align="right">2.1M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Java%20Programming%20on%20Linux.pdf">O'Reilly - Java Programming on Linux.pdf</a></td><td align="right">27-Feb-2012 17:42  </td><td align="right">4.3M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'Reilly%20-%20Learning%20Java.pdf">O'Reilly - Learning Java.pdf</a></td><td align="right">27-Feb-2012 17:44  </td><td align="right">3.6M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="O'reilly%20-%20Java%20Fundamental%20Classes%20Reference.pdf">O'reilly - Java Fundamental Classes Reference.pdf</a></td><td align="right">27-Feb-2012 17:39  </td><td align="right">762K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="OReilly%20-%20Java%20Performance%20Tuning.pdf">OReilly - Java Performance Tuning.pdf</a></td><td align="right">27-Feb-2012 17:40  </td><td align="right">1.8M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Oreilly.Java.Examples.In.A.Nutshell.3rd.EditioneBook-LiB.chm">Oreilly.Java.Examples.In.A.Nutshell.3rd.EditioneBook-LiB.chm</a></td><td align="right">27-Feb-2012 17:40  </td><td align="right">1.4M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Oreilly.Java.Extreme.Programming.Cookbook.chm">Oreilly.Java.Extreme.Programming.Cookbook.chm</a></td><td align="right">27-Feb-2012 17:38  </td><td align="right">671K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Prentice%20Hall%20-%20Deitel%20-%20Java%20Advanced%20How%20to%20Program%20(redistilled%20in%20one%20book).pdf">Prentice Hall - Deitel - Java Advanced How to Program (redistilled in one book).pdf</a></td><td align="right">27-Feb-2012 17:55  </td><td align="right"> 17M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Sams%20-%20JXTA%20-Java%20P2P%20Programming%20-%20ownSky.pdf">Sams - JXTA -Java P2P Programming - ownSky.pdf</a></td><td align="right">27-Feb-2012 17:48  </td><td align="right">4.9M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Teach%20Yourself%20Java%202%20In%2021%20Days%20-%20Sams%20Publishing.pdf">Teach Yourself Java 2 In 21 Days - Sams Publishing.pdf</a></td><td align="right">27-Feb-2012 17:52  </td><td align="right"> 11M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Teach%20Yourself%20Java%20In%2021%20Days.pdf">Teach Yourself Java In 21 Days.pdf</a></td><td align="right">27-Feb-2012 17:50  </td><td align="right">5.8M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Thinking%20In%20Java%20-%20Second%20Edition.pdf">Thinking In Java - Second Edition.pdf</a></td><td align="right">27-Feb-2012 17:47  </td><td align="right">4.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="UML%20-%20Design%20Patterns%20Java.PDF">UML - Design Patterns Java.PDF</a></td><td align="right">27-Feb-2012 17:42  </td><td align="right">2.2M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Wiley%20-%20Java%20Tools%20for%20Extreme%20Programming.pdf">Wiley - Java Tools for Extreme Programming.pdf</a></td><td align="right">27-Feb-2012 17:45  </td><td align="right">3.3M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Wiley%20Java%20Enterprise%20Design%20Patterns%20-%20Pattern%20in%20Java%20vol%202.1999.pdf">Wiley Java Enterprise Design Patterns - Pattern in Java vol 2.1999.pdf</a></td><td align="right">27-Feb-2012 17:58  </td><td align="right"> 18M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="%5b1932111662%5dJava%202%20Core%20Language%20Little%20Black%20Book.pdf">[1932111662]Java 2 Core Language Little Black Book.pdf</a></td><td align="right">27-Feb-2012 17:43  </td><td align="right">3.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="%5bMIT%20Press%5d%20Java%20Precisely.pdf">[MIT Press] Java Precisely.pdf</a></td><td align="right">27-Feb-2012 17:39  </td><td align="right">874K</td><td>&nbsp;</td></tr>
-
- 
-   
-
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Advanced-java.pdf">Advanced-java.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">873K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Android-Programming-Cookbook.pdf">Android-Programming-Cookbook.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">8.2M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Android-UI-Design.pdf">Android-UI-Design.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">3.7M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Apache-Hadoop-Tutorial.pdf">Apache-Hadoop-Tutorial.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">2.5M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Clean%20Code.pdf">Clean Code.pdf</a></td><td align="right">2021-02-01 18:41  </td><td align="right">3.6M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf">Data Structures and Algorithms in Java Fourth Edition.pdf</a></td><td align="right">2016-04-14 16:40  </td><td align="right"> 14M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Hibernate-Tutorial.pdf">Hibernate-Tutorial.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">1.2M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Introduction_to_algorithms-3rd%20Edition.pdf">Introduction_to_algorithms-3rd Edition.pdf</a></td><td align="right">2021-01-05 16:39  </td><td align="right">5.4M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="JPA_Mini_Book.pdf">JPA_Mini_Book.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">736K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="JSF-2.0-Programming-Cookbook.pdf">JSF-2.0-Programming-Cookbook.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">4.9M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="JUnit-Tutorial.pdf">JUnit-Tutorial.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">759K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="JVM_Troubleshooting_Guide.pdf">JVM_Troubleshooting_Guide.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">2.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java-8-Features.pdf">Java-8-Features.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">462K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java-Abstraction.pdf">Java-Abstraction.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">489K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java-Annotations-Tutorial.pdf">Java-Annotations-Tutorial.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">634K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java-Concurrency-Essentials.pdf">Java-Concurrency-Essentials.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">2.1M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java-Interview-Questions.pdf">Java-Interview-Questions.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">874K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java-Reflection-Tutorial.pdf">Java-Reflection-Tutorial.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">718K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Java_code_conventions.pdf">Java_code_conventions.pdf</a></td><td align="right">2014-08-29 10:40  </td><td align="right">129K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Microservices.pdf">Microservices.pdf</a></td><td align="right">2021-08-25 19:10  </td><td align="right">2.6M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Multithreading-and-Concurrency-Questions.pdf">Multithreading-and-Concurrency-Questions.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">529K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Spring-Data-Programming-Cookbook.pdf">Spring-Data-Programming-Cookbook.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">3.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="Spring-Interview-Questions.pdf">Spring-Interview-Questions.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">754K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="graafid.pdf">graafid.pdf</a></td><td align="right">2021-10-11 15:57  </td><td align="right">806K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="microservicesguide-2017.pdf">microservicesguide-2017.pdf</a></td><td align="right">2018-05-09 14:52  </td><td align="right">4.0M</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="microservicesinjava.pdf">microservicesinjava.pdf</a></td><td align="right">2016-08-28 16:26  </td><td align="right">822K</td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="pldi2017.pdf">pldi2017.pdf</a></td><td align="right">2018-05-09 15:09  </td><td align="right">2.4M</td><td>&nbsp;</td></tr>
-  
-    
-</table>
 
 NB:These are already shared on internet. I do not own any files or take responsibility.
